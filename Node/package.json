@@ -1,0 +1,13 @@
+{
+  "name": "oops-project",
+  "version": "1.0.0",
+  "description": "Project made for the OOPs assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
